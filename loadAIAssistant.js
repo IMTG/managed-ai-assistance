@@ -16,7 +16,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
     // Load all stylesheets
     loadStylesheet('https://cdn.jsdelivr.net/gh/IMTG/managed-ai-assistance@LanHub-CIT/custom.css?id=2');
-    loadStylesheet('https://cdn.jsdelivr.net/gh/IMTG/managed-ai-assistance@nocache=1/AddOnChatBotStyle.css?id=34');
+    loadStylesheet('https://cdn.jsdelivr.net/gh/IMTG/managed-ai-assistance@nocache=2/AddOnChatBotStyle.css?id=34');
     loadStylesheet('https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0');
     loadStylesheet('https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200');
     loadStylesheet('https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0&icon_names=chat');
