@@ -26,7 +26,7 @@ document.addEventListener('DOMContentLoaded', function() {
         import('https://cdn.jsdelivr.net/gh/IMTG/managed-ai-assistance@LanHub-CIT/chatbot.js')
         .then(({ createChat }) => {
             createChat({
-                webhookUrl: 'https://primary-production-4c7d.up.railway.app/webhook/0425c3b5-6d36-4929-805b-8db58837f9a8/chat',
+                webhookUrl: 'https://primary-production-4c7d.up.railway.app/webhook/49b210ac-ced2-4083-a4c7-398764919723/chat',
                 i18n: {
                     en: {
                         title: 'AI Assistant',
