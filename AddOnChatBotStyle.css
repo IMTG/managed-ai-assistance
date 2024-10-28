@@ -27,6 +27,8 @@
 }
 .chat-header a{
     text-decoration: none;
+    color: #005c97;
+    padding-right: 1rem;
 }
 
 .chat-header img {
