@@ -24,7 +24,7 @@ document.addEventListener('DOMContentLoaded', function () {
     // Load jQuery
     loadScript('https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js', function () {
         // Use dynamic import for the module
-        import('https://cdn.jsdelivr.net/gh/IMTG/managed-ai-assistance@LanHub-CIT/chatbot.js')
+        import('https://cdn.jsdelivr.net/gh/IMTG/managed-ai-assistance@nocache=3/chatbot.js')
             .then(({ createChat }) => {
                 createChat({
                     webhookUrl: 'https://primary-production-4c7d.up.railway.app/webhook/49b210ac-ced2-4083-a4c7-398764919723/chat',
