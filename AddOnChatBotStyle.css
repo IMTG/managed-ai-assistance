@@ -22,7 +22,11 @@
 }
 .chat-header {
     display: flex;
-
+    align-items: center;
+    justify-content: space-between;
+}
+.chat-header a{
+    text-decoration: none;
 }
 
 .chat-header img {
